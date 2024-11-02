@@ -1,0 +1,2 @@
+1. open() function is for using files
+2. readlines() --> read the elements of a file in strings and return them in a list.
